@@ -1,4 +1,4 @@
-package day_21_nested_loops;
+package day21_nested_loops;
 
 public class MultTable {
     public static void main(String[] args) {
