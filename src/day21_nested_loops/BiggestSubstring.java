@@ -4,14 +4,14 @@ public class BiggestSubstring {
     public static void main(String[] args) {
         String str = "aaabbbcccccddd";
         String longest = "";
-        String each = "";
+        StringBuilder each = new StringBuilder();
 
         for (int i = 0; i < str.length() - 1; i++) {
-            each += str.charAt(i);
+            each.append(str.charAt(i));
             if(str.charAt(i) != str.charAt(i + 1)) {
                 if (each.length() > longest.length())
-                    longest = each;
-                each = "";
+                    longest = each.toString();
+                each = new StringBuilder();
             }
         }
         System.out.println(longest);
