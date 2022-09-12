@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5fd101c-1f8a-413a-ae60-1288adef0a70" name="Changes" comment="leetcode plus one" />
+    <list default="true" id="f5fd101c-1f8a-413a-ae60-1288adef0a70" name="Changes" comment="leetcode plus one">
+      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/interface1/AppleStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/interface1/Mac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/interface1_iml/Desktop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_30_2022_1_36_AM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming_B27_me/leetcode/plusone/Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Programming_B27_me/leetcode/plusone/Solution1.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -60,13 +69,13 @@
       <recent name="day03_variables.tasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution1">
-    <configuration name="BiggestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_21_nested_loops.BiggestSubstring" />
-      <module name="Java_Programming_B27" />
+  <component name="RunManager" selected="Application.AppleStore">
+    <configuration name="AppleStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day43_abstraction.interface1.AppleStore" />
+      <module name="Java_Programming_B27_me" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_21_nested_loops.*" />
+          <option name="PATTERN" value="day43_abstraction.interface1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppleStore" />
         <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.NestedLoop2" />
         <item itemvalue="Application.MultTable" />
         <item itemvalue="Application.day21_nested_loops.Pypamid" />
-        <item itemvalue="Application.BiggestSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +184,7 @@
       <workItem from="1661839611536" duration="789000" />
       <workItem from="1661845986288" duration="2705000" />
       <workItem from="1662104682938" duration="5317000" />
+      <workItem from="1663001004821" duration="1683000" />
     </task>
     <task id="LOCAL-00001" summary="All">
       <created>1661841516726</created>
@@ -190,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662109049603</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="leetcode plus one">
+      <created>1663001031041</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663001031041</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
