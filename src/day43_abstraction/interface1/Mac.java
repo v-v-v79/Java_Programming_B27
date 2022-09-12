@@ -1,7 +1,7 @@
 package day43_abstraction.interface1;
 
 public interface Mac {
-    public static final String brand = "Apple";
+    public static final String brand = "Apple"; //gray because it's by default
     String os = "IOS";
 
     public abstract void turnOn();
