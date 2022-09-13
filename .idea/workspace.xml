@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="b9fcaf35-bea6-4a4f-9f92-e98ebc639335" name="Changes" comment="day21 edited" />
+=======
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5fd101c-1f8a-413a-ae60-1288adef0a70" name="Changes" comment="abstraction day43 comment">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day43_abstraction/interface1/Mac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day43_abstraction/interface1/Mac.java" afterDir="false" />
+    </list>
+>>>>>>> origin/master
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +21,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+<<<<<<< HEAD
+=======
+        <option value="Interface" />
+>>>>>>> origin/master
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -25,10 +41,31 @@
   </component>
   <component name="ProjectId" id="2E4Fm7oKNsA7xvVbXMaS8yzwRXI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/day02_print_statements/About.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day02_print_statements/first_class.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AOE0w9lyER4uXWr8nPOXu9SmiU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+>>>>>>> origin/master
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -52,6 +89,34 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day21_nested_loops.*" />
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Volumes/GoogleDrive/Other computers/My Computer (Windows)/IdeaProjects/Java_Programming_B27&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day_21_nested_loops" />
+      <recent name="day16_string.replit" />
+      <recent name="day08_if_else.tasks" />
+      <recent name="day03_variables.tasks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AppleStore">
+    <configuration name="AppleStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day43_abstraction.interface1.AppleStore" />
+      <module name="Java_Programming_B27_me" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day43_abstraction.interface1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +124,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MultTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_21_nested_loops.MultTable" />
+      <module name="Java_Programming_B27" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_21_nested_loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NestedLoop2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_21_nested_loops.NestedLoop2" />
+      <module name="Java_Programming_B27" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_21_nested_loops.*" />
+>>>>>>> origin/master
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
     <configuration name="CharIncrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day06_operators.CharIncrement" />
       <module name="Java_Programming_B27_me" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day06_operators.*" />
+=======
+    <configuration name="Pypamid" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="day_21_nested_loops.Pypamid" />
+      <module name="Java_Programming_B27_me" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_21_nested_loops.*" />
+>>>>>>> origin/master
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,19 +175,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Sleep10sec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sleep10sec" />
       <module name="Java_Programming_B27_me" />
+=======
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.plusone.Solution1" />
+      <module name="Java_Programming_B27_me" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.plusone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+>>>>>>> origin/master
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.maxprofit.Solution" />
       <module name="Java_Programming_B27_me" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.maxprofit.*" />
+=======
+    <configuration name="day21_nested_loops.Pypamid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day21_nested_loops.Pypamid" />
+      <module name="Java_Programming_B27_me" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day21_nested_loops.*" />
+>>>>>>> origin/master
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,16 +218,25 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.Sleep10sec" />
         <item itemvalue="Application.BiggestSubstring" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.CharIncrement" />
+=======
+        <item itemvalue="Application.AppleStore" />
+        <item itemvalue="Application.Solution1" />
+        <item itemvalue="Application.NestedLoop2" />
+        <item itemvalue="Application.MultTable" />
+        <item itemvalue="Application.day21_nested_loops.Pypamid" />
+>>>>>>> origin/master
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="b9fcaf35-bea6-4a4f-9f92-e98ebc639335" name="Changes" comment="" />
       <created>1661847107249</created>
       <option name="number" value="Default" />
@@ -127,6 +260,67 @@
       <updated>1661848687490</updated>
     </task>
     <option name="localTasksCounter" value="3" />
+=======
+      <changelist id="f5fd101c-1f8a-413a-ae60-1288adef0a70" name="Changes" comment="" />
+      <created>1654872012332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654872012332</updated>
+      <workItem from="1654872013510" duration="3958000" />
+      <workItem from="1654882885826" duration="13505000" />
+      <workItem from="1655151850448" duration="13254000" />
+      <workItem from="1655386687211" duration="18833000" />
+      <workItem from="1655745445248" duration="16684000" />
+      <workItem from="1655875024182" duration="45845000" />
+      <workItem from="1657172181419" duration="145000" />
+      <workItem from="1657180866609" duration="660000" />
+      <workItem from="1657246918310" duration="65000" />
+      <workItem from="1657250319043" duration="282000" />
+      <workItem from="1657475698290" duration="23479000" />
+      <workItem from="1658153953260" duration="5570000" />
+      <workItem from="1661838848402" duration="441000" />
+      <workItem from="1661839611536" duration="789000" />
+      <workItem from="1661845986288" duration="2705000" />
+      <workItem from="1662104682938" duration="5317000" />
+      <workItem from="1663001004821" duration="2898000" />
+    </task>
+    <task id="LOCAL-00001" summary="All">
+      <created>1661841516726</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661841516726</updated>
+    </task>
+    <task id="LOCAL-00002" summary="leetcode plus one">
+      <created>1662109049603</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662109049603</updated>
+    </task>
+    <task id="LOCAL-00003" summary="leetcode plus one">
+      <created>1663001031041</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663001031041</updated>
+    </task>
+    <task id="LOCAL-00004" summary="abstraction day43">
+      <created>1663002958315</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663002958315</updated>
+    </task>
+    <task id="LOCAL-00005" summary="abstraction day43 comment">
+      <created>1663003116215</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663003116215</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+>>>>>>> origin/master
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,14 +331,47 @@
       <map>
         <entry key="MAIN">
           <value>
+<<<<<<< HEAD
             <State />
+=======
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+>>>>>>> origin/master
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
     <MESSAGE value="day21" />
     <option name="LAST_COMMIT_MESSAGE" value="day21" />
+=======
+    <MESSAGE value="All" />
+    <MESSAGE value="leetcode plus one" />
+    <MESSAGE value="abstraction day43" />
+    <MESSAGE value="abstraction day43 comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="abstraction day43 comment" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_Programming_B27$TriplesTimes.ic" NAME="TriplesTimes Coverage Results" MODIFIED="1658112753528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>replit.loops.*</FILTER>
+    </SUITE>
+>>>>>>> origin/master
   </component>
 </project>
