@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
-  <component name="ChangeListManager">
-    <list default="true" id="b9fcaf35-bea6-4a4f-9f92-e98ebc639335" name="Changes" comment="day21 edited" />
-=======
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
@@ -12,7 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day43_abstraction/interface1/Mac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day43_abstraction/interface1/Mac.java" afterDir="false" />
     </list>
->>>>>>> origin/master
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,27 +16,12 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-<<<<<<< HEAD
-=======
         <option value="Interface" />
->>>>>>> origin/master
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-<<<<<<< HEAD
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
-  </component>
-  <component name="ProjectId" id="2E4Fm7oKNsA7xvVbXMaS8yzwRXI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-=======
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master1" />
@@ -60,36 +40,10 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
->>>>>>> origin/master
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< HEAD
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
-  }
-}]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Sleep10sec">
-    <configuration name="BiggestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day21_nested_loops.BiggestSubstring" />
-      <module name="Java_Programming_B27_me" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day21_nested_loops.*" />
-=======
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -143,7 +97,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day_21_nested_loops.*" />
->>>>>>> origin/master
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,14 +104,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="CharIncrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day06_operators.CharIncrement" />
-      <module name="Java_Programming_B27_me" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day06_operators.*" />
-=======
     <configuration name="Pypamid" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="18" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -167,7 +112,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day_21_nested_loops.*" />
->>>>>>> origin/master
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +119,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="Sleep10sec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sleep10sec" />
-      <module name="Java_Programming_B27_me" />
-=======
     <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.plusone.Solution1" />
       <module name="Java_Programming_B27_me" />
@@ -189,26 +128,16 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
->>>>>>> origin/master
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.maxprofit.Solution" />
-      <module name="Java_Programming_B27_me" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.maxprofit.*" />
-=======
     <configuration name="day21_nested_loops.Pypamid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day21_nested_loops.Pypamid" />
       <module name="Java_Programming_B27_me" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day21_nested_loops.*" />
->>>>>>> origin/master
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,49 +147,17 @@
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-        <item itemvalue="Application.Sleep10sec" />
-        <item itemvalue="Application.BiggestSubstring" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.CharIncrement" />
-=======
         <item itemvalue="Application.AppleStore" />
         <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.NestedLoop2" />
         <item itemvalue="Application.MultTable" />
         <item itemvalue="Application.day21_nested_loops.Pypamid" />
->>>>>>> origin/master
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
-      <changelist id="b9fcaf35-bea6-4a4f-9f92-e98ebc639335" name="Changes" comment="" />
-      <created>1661847107249</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1661847107249</updated>
-      <workItem from="1661847110008" duration="563000" />
-      <workItem from="1661847691459" duration="5482000" />
-    </task>
-    <task id="LOCAL-00001" summary="day21">
-      <created>1661848529065</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1661848529065</updated>
-    </task>
-    <task id="LOCAL-00002" summary="day21">
-      <created>1661848687490</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1661848687490</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
-=======
       <changelist id="f5fd101c-1f8a-413a-ae60-1288adef0a70" name="Changes" comment="" />
       <created>1654872012332</created>
       <option name="number" value="Default" />
@@ -320,7 +217,6 @@
       <updated>1663003116215</updated>
     </task>
     <option name="localTasksCounter" value="6" />
->>>>>>> origin/master
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,9 +227,6 @@
       <map>
         <entry key="MAIN">
           <value>
-<<<<<<< HEAD
-            <State />
-=======
             <State>
               <option name="FILTERS">
                 <map>
@@ -347,17 +240,12 @@
                 </map>
               </option>
             </State>
->>>>>>> origin/master
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-<<<<<<< HEAD
-    <MESSAGE value="day21" />
-    <option name="LAST_COMMIT_MESSAGE" value="day21" />
-=======
     <MESSAGE value="All" />
     <MESSAGE value="leetcode plus one" />
     <MESSAGE value="abstraction day43" />
@@ -372,6 +260,5 @@
     <SUITE FILE_PATH="coverage/Java_Programming_B27$TriplesTimes.ic" NAME="TriplesTimes Coverage Results" MODIFIED="1658112753528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>replit.loops.*</FILTER>
     </SUITE>
->>>>>>> origin/master
   </component>
 </project>
