@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5fd101c-1f8a-413a-ae60-1288adef0a70" name="Changes" comment="abstraction day43 comment">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day43_abstraction/interface1/Mac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day43_abstraction/interface1/Mac.java" afterDir="false" />
-    </list>
+    <list default="true" id="f5fd101c-1f8a-413a-ae60-1288adef0a70" name="Changes" comment="abstraction day43 comment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,7 +176,7 @@
       <workItem from="1661839611536" duration="789000" />
       <workItem from="1661845986288" duration="2705000" />
       <workItem from="1662104682938" duration="5317000" />
-      <workItem from="1663001004821" duration="2898000" />
+      <workItem from="1663001004821" duration="3105000" />
     </task>
     <task id="LOCAL-00001" summary="All">
       <created>1661841516726</created>
@@ -216,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663003116215</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="abstraction day43 comment">
+      <created>1663047513322</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663047513322</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
