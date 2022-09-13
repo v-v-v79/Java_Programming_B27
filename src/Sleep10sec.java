@@ -1,4 +1,4 @@
-public class Sleep10sec {
+public class  Sleep10sec {
 
     static void sleep10sec() /*throws InterruptedException*/{
         //Thread.sleep(3000);
