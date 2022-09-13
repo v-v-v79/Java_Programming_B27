@@ -9,6 +9,8 @@ public interface Mac {
         System.out.println("The brand is Apple");
     }
     public default void typing() {
+        System.out.println(os);
+        System.out.println(brand);
         System.out.println("Start typing");
     }
 }
