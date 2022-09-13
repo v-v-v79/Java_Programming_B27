@@ -3,3 +3,9 @@
 out
 target
 .idea
+workspace.xml
+vcs.xml
+uiDesigner.xml
+modules.xml
+misc.xml
+compiler.xml
