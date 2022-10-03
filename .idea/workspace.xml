@@ -4,19 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5fd101c-1f8a-413a-ae60-1288adef0a70" name="Changes" comment="abstraction day43 comment">
-      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/Birds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_polymorphism/street/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_48_maps/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_48_maps/Countries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_48_maps/DataBaseEG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_48_maps/Season.java" afterDir="false" />
+    <list default="true" id="f5fd101c-1f8a-413a-ae60-1288adef0a70" name="Changes" comment="day47 + Maps commit">
+      <change afterPath="$PROJECT_DIR$/src/day47_iterable/IteratorEG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_iterable/RemoveNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_iterable/RemoveString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_48_maps/MapEG.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day43_abstraction/Example.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day44_polymorphism/street/Driveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day44_polymorphism/street/Driveable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day44_polymorphism/street/Street.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day44_polymorphism/street/Street.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,12 +135,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Season" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_48_maps.Season" />
+    <configuration name="RemoveNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day47_iterable.RemoveNumber" />
       <module name="Java_Programming_B27" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_48_maps.*" />
+          <option name="PATTERN" value="day47_iterable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day47_iterable.RemoveString" />
+      <module name="Java_Programming_B27" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day47_iterable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,7 +166,6 @@
         <item itemvalue="Application.DataBaseEG" />
         <item itemvalue="Application.Apple" />
         <item itemvalue="Application.Countries" />
-        <item itemvalue="Application.Season" />
         <item itemvalue="Application.CityHall" />
       </list>
     </recent_temporary>
@@ -299,7 +304,8 @@
     <MESSAGE value="abstraction day43" />
     <MESSAGE value="polymorphism day44 comment" />
     <MESSAGE value="abstraction day43 comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="abstraction day43 comment" />
+    <MESSAGE value="day47 + Maps commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="day47 + Maps commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
