@@ -1,15 +1,15 @@
 package day44_polymorphism.employee;
 
-public abstract class Person {
-    String name;
-    int age;
+public class Person1 {
+    public String name;
+    public int age;
 
-    public Person(String name, int age) {
+    public Person1(String name, int age) {
         this.name = name;
         this.age = age;
     }
 
-    public Person(String name) {
+    public Person1(String name) {
         this.name = name;
     }
 
