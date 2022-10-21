@@ -16,6 +16,6 @@ public class Apple {
                 counter.put(str.charAt(i), 1);
             }
         }
-        System.out.println(counter.get('p'));
+        System.out.println(counter.keySet());
     }
 }
