@@ -12,20 +12,21 @@ public class ArmstrongNum {
     }
 
     public static boolean isArmstrong(int num) {
+        if(num < 0)
+            return false;
+        if (num <= 9)
+            return true;
         String numStr = num + "";
-        String arr[] = numStr.split("");
+        String[] arr = numStr.split("");
         int[] arrNum = new int[arr.length];
         for (int i = 0; i < arr.length; i++) {
             arrNum[i] = parseInt(arr[i]);
         }
         int res = 0;
         for (int i : arrNum) {
-            res += Math.pow(i, 3);
+            res += Math.pow(i, arr.length);
         }
         System.out.println(res);
-        if(res == num)
-            return true;
-        else 
-            return false;
+        return res == num;
     }
 }

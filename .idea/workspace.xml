@@ -4,16 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5fd101c-1f8a-413a-ae60-1288adef0a70" name="Changes" comment="Function Interface, Generics Day 49">
-      <change afterPath="$PROJECT_DIR$/src/day34_custom_classes/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_polymorphism/employee/Person1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_50_functional_innerface_lambda_pactice/BiConsumerEG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_50_functional_innerface_lambda_pactice/BiFunctionEG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_50_functional_innerface_lambda_pactice/BiFunctionEG2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_50_functional_innerface_lambda_pactice/BiPredicateEG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_50_functional_innerface_lambda_pactice/WithMapEG.java" afterDir="false" />
+    <list default="true" id="f5fd101c-1f8a-413a-ae60-1288adef0a70" name="Changes" comment="Mentor tasks 10.20.22">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/rotateimage/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mentor_tasks/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mentor_tasks/ChangeSign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mentor_tasks/FindUniqueChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mentor_tasks/FrequencyOfChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mentor_tasks/NegativeNumberRevers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mentor_tasks/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mentor_tasks/ReverseNegativeNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mentor_tasks/SameLettersString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day44_polymorphism/employee/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day44_polymorphism/employee/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mentor_tasks/ArmstrongNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mentor_tasks/ArmstrongNum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,25 +62,25 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetcode.sudoku" />
+      <recent name="leetcode.two_sum" />
+      <recent name="leetcode.arrayintersection" />
+      <recent name="day51_stream" />
       <recent name="day_50_functional_innerface_lambda_pactice" />
-      <recent name="day44_polymorphism.employee" />
-      <recent name="day_49_functional_interface_lambda_exp.driver" />
-      <recent name="day_21_nested_loops" />
-      <recent name="day16_string.replit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BiFunctionEG2">
-    <configuration name="BiConsumerEG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_50_functional_innerface_lambda_pactice.BiConsumerEG" />
+  <component name="RunManager" selected="Application.FindUniqueChars">
+    <configuration name="ChangeSign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mentor_tasks.ChangeSign" />
       <module name="Java_Programming_B27" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_50_functional_innerface_lambda_pactice.*" />
+          <option name="PATTERN" value="mentor_tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BiFunctionEG2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_50_functional_innerface_lambda_pactice.BiFunctionEG2" />
+    <configuration name="FindUniqueChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mentor_tasks.FindUniqueChars" />
       <module name="Java_Programming_B27" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_50_functional_innerface_lambda_pactice.*" />
+          <option name="PATTERN" value="mentor_tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionIF_EG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_49_functional_interface_lambda_exp.function_interface.FunctionIF_EG" />
+    <configuration name="FrequencyOfChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mentor_tasks.FrequencyOfChars" />
       <module name="Java_Programming_B27" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_49_functional_interface_lambda_exp.function_interface.*" />
+          <option name="PATTERN" value="mentor_tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WithMapEG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_50_functional_innerface_lambda_pactice.WithMapEG" />
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mentor_tasks.RemoveDuplicates" />
       <module name="Java_Programming_B27" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_50_functional_innerface_lambda_pactice.*" />
+          <option name="PATTERN" value="mentor_tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day_50_functional_innerface_lambda_pactice.BiPredicateEG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_50_functional_innerface_lambda_pactice.BiPredicateEG" />
+    <configuration name="SameLettersString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mentor_tasks.SameLettersString" />
       <module name="Java_Programming_B27" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_50_functional_innerface_lambda_pactice.*" />
+          <option name="PATTERN" value="mentor_tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BiFunctionEG2" />
-        <item itemvalue="Application.WithMapEG" />
-        <item itemvalue="Application.BiConsumerEG" />
-        <item itemvalue="Application.day_50_functional_innerface_lambda_pactice.BiPredicateEG" />
-        <item itemvalue="Application.FunctionIF_EG" />
+        <item itemvalue="Application.FindUniqueChars" />
+        <item itemvalue="Application.RemoveDuplicates" />
+        <item itemvalue="Application.SameLettersString" />
+        <item itemvalue="Application.FrequencyOfChars" />
+        <item itemvalue="Application.ChangeSign" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +194,25 @@
       <workItem from="1663596755709" duration="11704000" />
       <workItem from="1664288712189" duration="8179000" />
       <workItem from="1664769507038" duration="22319000" />
-      <workItem from="1664894826391" duration="6877000" />
+      <workItem from="1664894826391" duration="6911000" />
+      <workItem from="1664986759174" duration="342000" />
+      <workItem from="1665070126722" duration="9632000" />
+      <workItem from="1665112558572" duration="2535000" />
+      <workItem from="1665204903758" duration="8530000" />
+      <workItem from="1665262945585" duration="293000" />
+      <workItem from="1665268143316" duration="23000" />
+      <workItem from="1665270868159" duration="51893000" />
+      <workItem from="1665554577455" duration="476000" />
+      <workItem from="1665592326135" duration="2944000" />
+      <workItem from="1666162426893" duration="7071000" />
+      <workItem from="1666336373292" duration="550000" />
+      <workItem from="1666338981637" duration="2192000" />
+      <workItem from="1666592234555" duration="874000" />
+      <workItem from="1666800864093" duration="1975000" />
+      <workItem from="1666805759371" duration="1861000" />
+      <workItem from="1667407712371" duration="709000" />
+      <workItem from="1667489683955" duration="636000" />
+      <workItem from="1667702938374" duration="16456000" />
     </task>
     <task id="LOCAL-00001" summary="All">
       <created>1661841516726</created>
@@ -278,7 +298,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664852342939</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Function Interface, Generics Day 50">
+      <created>1664921510284</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1664921510285</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Mentor tasks 10.20.22">
+      <created>1666341878371</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1666341878371</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,7 +349,16 @@
     <MESSAGE value="abstraction day43 comment" />
     <MESSAGE value="day47 + Maps commit" />
     <MESSAGE value="Function Interface, Generics Day 49" />
-    <option name="LAST_COMMIT_MESSAGE" value="Function Interface, Generics Day 49" />
+    <MESSAGE value="Function Interface, Generics Day 50" />
+    <MESSAGE value="Mentor tasks 10.20.22" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mentor tasks 10.20.22" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
